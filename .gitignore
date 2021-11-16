@@ -1,3 +1,12 @@
+#
+__labs/
+__dist/
+__refs/
+
+# pycharm
+.idea/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -69,7 +78,7 @@ instance/
 .scrapy
 
 # Sphinx documentation
-docs/_build/
+__docs/_build/
 
 # PyBuilder
 target/
